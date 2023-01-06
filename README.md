@@ -5,4 +5,4 @@
 
 # 폴더 설명
 
-[순차 탐색 문제]()
+[순차 탐색 문제](https://github.com/BackdevHong/Python-Algorithm/tree/main/Sequential%20Search)
