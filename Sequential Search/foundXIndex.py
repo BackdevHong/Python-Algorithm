@@ -46,3 +46,5 @@ def seqsearch(n, S, x):
 
 
 print(seqsearch(len(S) - 1, S, x))
+
+# 파이썬 내장 함수를 쓰지 않고 해결해봐야것다
